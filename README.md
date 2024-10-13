@@ -38,3 +38,19 @@ This command will move the starter code to the **app-example** directory and cre
 ## Screenshots
 A sample screenshots of project below.
 
+<img src ="https://github.com/user-attachments/assets/8d0fbe43-d299-4edf-bf7e-b6447b01329c"  width="300" height="680" />
+<img src ="https://github.com/user-attachments/assets/6bcb3843-0b58-4c3a-825d-1385293de3f2"  width="300" height="680" />
+<img src ="https://github.com/user-attachments/assets/4dbb43a8-c4fd-4f08-ba5f-dba378311520"  width="300" height="680" />
+<img src ="https://github.com/user-attachments/assets/c881ed33-f01c-4db2-8c2d-e3ccc565968c"  width="300" height="680" />
+<img src ="https://github.com/user-attachments/assets/b8b98674-dc5a-42f9-bf9d-bb659e24523d"  width="300" height="680" />
+<img src ="https://github.com/user-attachments/assets/08597a39-7d11-418d-a5cc-cb4f637de4c1"  width="300" height="680" />
+<img src ="https://github.com/user-attachments/assets/c96671d8-3c86-4416-a8bd-4498a337fdf0"  width="300" height="680" />
+
+
+
+
+
+
+
+
+
